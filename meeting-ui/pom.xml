@@ -18,7 +18,7 @@
 		<webappDirectory>${project.build.directory}/${project.build.finalName}</webappDirectory>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<!-- Spring -->
-		<org.springframework.version>4.0.5.RELEASE</org.springframework.version>
+		<org.springframework.version>5.3.19</org.springframework.version>
 		<org.springframework.security.version>3.2.4.RELEASE</org.springframework.security.version>
 
 		<!-- persistence 4.3.5.Final -->
